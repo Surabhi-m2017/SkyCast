@@ -76,52 +76,12 @@ https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=London&aqi=yes
 * Modern Web Browser (Chrome, Edge, Firefox)
 * WeatherAPI Key
 
-### Steps to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/SkyCast.git
-```
-
-2. Open the project folder in Visual Studio Code.
-
-3. Add your WeatherAPI key inside `script.js`.
-
-4. Launch `index.html` using Live Server.
-
-5. Enter a city name and click the **Search** button.
 
 ---
 
 ## 📸 Screenshots
 <img width="1920" height="863" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/f8a760ce-7bba-4676-bbbe-f5cdbf7cd729" />
 
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project, the following concepts were implemented and explored:
-
-* API Integration using Fetch API
-* Asynchronous JavaScript (Async/Await)
-* DOM Manipulation
-* Event Handling
-* Responsive Web Design
-* Front-End Development Fundamentals
-
----
-
-## 🔮 Future Enhancements
-
-* 7-Day Weather Forecast
-* Auto Location Detection
-* Air Quality Index (AQI)
-* Sunrise and Sunset Information
-* Dynamic Weather-Based Themes
-* Dark/Light Mode Toggle
-* Progressive Web App (PWA) Support
 
 ---
 
@@ -132,10 +92,5 @@ Through this project, the following concepts were implemented and explored:
 Bachelor of Engineering – Information Science & Engineering
 
 ---
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
-
 
 
