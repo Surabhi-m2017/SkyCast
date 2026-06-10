@@ -53,7 +53,7 @@ https://api.weatherapi.com/v1/current.json
 ### Sample Request
 
 ```text
-http://api.weatherapi.com/v1/current.json?key=0b5c5d4dae47472da1282446261006&q=London&aqi=yes
+https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=London&aqi=yes
 ```
 
 ### Data Retrieved
